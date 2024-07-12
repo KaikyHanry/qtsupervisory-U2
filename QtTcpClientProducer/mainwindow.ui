@@ -7,7 +7,11 @@
     <x>0</x>
     <y>0</y>
     <width>463</width>
+<<<<<<< HEAD
     <height>347</height>
+=======
+    <height>252</height>
+>>>>>>> b4e92afe2107db95815ef7c9bc0298c0d9e55782
    </rect>
   </property>
   <property name="windowTitle">
@@ -17,8 +21,13 @@
    <widget class="QPushButton" name="pushButtonPut">
     <property name="geometry">
      <rect>
+<<<<<<< HEAD
       <x>10</x>
       <y>220</y>
+=======
+      <x>150</x>
+      <y>60</y>
+>>>>>>> b4e92afe2107db95815ef7c9bc0298c0d9e55782
       <width>101</width>
       <height>29</height>
      </rect>
@@ -27,6 +36,7 @@
      <string>putData</string>
     </property>
    </widget>
+<<<<<<< HEAD
    <widget class="QTextEdit" name="textEdit">
     <property name="geometry">
      <rect>
@@ -184,6 +194,8 @@
      </rect>
     </property>
    </widget>
+=======
+>>>>>>> b4e92afe2107db95815ef7c9bc0298c0d9e55782
   </widget>
   <widget class="QMenuBar" name="menuBar">
    <property name="geometry">
@@ -191,7 +203,11 @@
      <x>0</x>
      <y>0</y>
      <width>463</width>
+<<<<<<< HEAD
      <height>21</height>
+=======
+     <height>23</height>
+>>>>>>> b4e92afe2107db95815ef7c9bc0298c0d9e55782
     </rect>
    </property>
   </widget>
