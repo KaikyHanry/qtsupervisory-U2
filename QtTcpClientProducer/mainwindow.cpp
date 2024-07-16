@@ -6,16 +6,34 @@ MainWindow::MainWindow(QWidget *parent) :
   QMainWindow(parent), ui(new Ui::MainWindow){
   ui->setupUi(this);
   socket = new QTcpSocket(this);
+<<<<<<< HEAD
   //tcpConnect();
+=======
+<<<<<<< HEAD
+  //tcpConnect();
+=======
+  tcpConnect();
+>>>>>>> b4e92afe2107db95815ef7c9bc0298c0d9e55782
+>>>>>>> 5d35064815090b5a47d1ba93051c8bc0041f85c6
 
   connect(ui->pushButtonPut,
           SIGNAL(clicked(bool)),
           this,
           SLOT(putData()));
+<<<<<<< HEAD
   connect(ui->pushButtonConnect,
           SIGNAL(clicked(bool)),
           this,
           SLOT(tcpConnect()));
+=======
+<<<<<<< HEAD
+  connect(ui->pushButtonCon,
+          SIGNAL(clicked(bool)),
+          this,
+          SLOT(tcpConnect()));
+=======
+>>>>>>> b4e92afe2107db95815ef7c9bc0298c0d9e55782
+>>>>>>> 5d35064815090b5a47d1ba93051c8bc0041f85c6
 }
 
 void MainWindow::tcpConnect(){

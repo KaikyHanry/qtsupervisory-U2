@@ -13,6 +13,10 @@ QMAKE_DEFAULT_LIBDIRS = \
     /usr/lib \
     /lib/x86_64-linux-gnu \
     /lib
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 5d35064815090b5a47d1ba93051c8bc0041f85c6
 QMAKE_CXX.QT_COMPILER_STDCXX = 201703L
 QMAKE_CXX.QMAKE_GCC_MAJOR_VERSION = 11
 QMAKE_CXX.QMAKE_GCC_MINOR_VERSION = 2
@@ -47,3 +51,8 @@ QMAKE_CXX.LIBDIRS = \
     C:/Qt/Tools/mingw1120_64/lib/gcc \
     C:/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/lib \
     C:/Qt/Tools/mingw1120_64/lib
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> b4e92afe2107db95815ef7c9bc0298c0d9e55782
+>>>>>>> 5d35064815090b5a47d1ba93051c8bc0041f85c6

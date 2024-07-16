@@ -307,7 +307,11 @@ debug/moc_mainwindow.cpp: ../../mainwindow.h \
 		C:/Qt/6.7.2/mingw_64/include/QtCore/QDebug \
 		debug/moc_predefs.h \
 		C:/Qt/6.7.2/mingw_64/bin/moc.exe
+<<<<<<< HEAD
 	C:\Qt\6.7.2\mingw_64\bin\moc.exe $(DEFINES) --include "C:/Users/gusta/OneDrive/Área de Trabalho/u3/QtTcpClientProducer/build/Desktop_Qt_6_7_2_MinGW_64_bit-Release/debug/moc_predefs.h" -IC:/Qt/6.7.2/mingw_64/mkspecs/win32-g++ -I"C:/Users/gusta/OneDrive/Área de Trabalho/u3/QtTcpClientProducer" -IC:/Qt/6.7.2/mingw_64/include -IC:/Qt/6.7.2/mingw_64/include/QtWidgets -IC:/Qt/6.7.2/mingw_64/include/QtGui -IC:/Qt/6.7.2/mingw_64/include/QtNetwork -IC:/Qt/6.7.2/mingw_64/include/QtCore -I. -IC:/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++ -IC:/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32 -IC:/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward -IC:/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include -IC:/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed -IC:/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include ..\..\mainwindow.h -o debug\moc_mainwindow.cpp
+=======
+	C:\Qt\6.7.2\mingw_64\bin\moc.exe $(DEFINES) --include C:/Users/gusta/Downloads/qtsupervisory-U2-master/qtsupervisory-U2-master/QtTcpClientProducer/build/Desktop_Qt_6_7_2_MinGW_64_bit-Release/debug/moc_predefs.h -IC:/Qt/6.7.2/mingw_64/mkspecs/win32-g++ -IC:/Users/gusta/Downloads/qtsupervisory-U2-master/qtsupervisory-U2-master/QtTcpClientProducer -IC:/Qt/6.7.2/mingw_64/include -IC:/Qt/6.7.2/mingw_64/include/QtWidgets -IC:/Qt/6.7.2/mingw_64/include/QtGui -IC:/Qt/6.7.2/mingw_64/include/QtNetwork -IC:/Qt/6.7.2/mingw_64/include/QtCore -I. -IC:/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++ -IC:/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32 -IC:/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward -IC:/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include -IC:/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed -IC:/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include ..\..\mainwindow.h -o debug\moc_mainwindow.cpp
+>>>>>>> 5d35064815090b5a47d1ba93051c8bc0041f85c6
 
 compiler_moc_objc_header_make_all:
 compiler_moc_objc_header_clean:
